@@ -1,10 +1,10 @@
-# amplify-fusion-java-service
+# Amplify Fusion Java Service Claude Skill
 
 A Claude skill for generating Java Service code for Axway Amplify Fusion
 
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://claude.ai/code)
 
-
+A plugin can be found [here](https://github.com/lbrenman/claude-plugin-amplify-fusion-java-service)
 
 ## What it does
 

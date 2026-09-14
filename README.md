@@ -1,6 +1,6 @@
 # amplify-fusion-java-service
 
-A Claude skill for generating production-ready Java service code for [Axway Amplify Fusion](https://docs.axway.com/bundle/amplify-fusion) pipelines.
+A Claude skill for generating Java Service code for Axway Amplify Fusion
 
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://claude.ai/code)
 
